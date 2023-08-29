@@ -186,7 +186,7 @@ The freeCodeCamp.org community is possible thanks to thousands of kind volunteer
 
 ### Platform, Build, and Deployment Status
 
-The general platform status for all our applications is available at [`status.freecodecamp.org`](https://status.freecodecamp.org). The build and deployment status for the code is available in [our DevOps Guide](https://contribute.freecodecamp.org/#/devops).
+The general platform status for all our applications is available at [`status.freecodecamp.org`](https://status.freecodecamp.org). The build and deployment status for the code is available in [our DevOps Guide](https://contribute.freecodecamp.org/#/devops)
 
 ### License
 
@@ -196,3 +196,4 @@ The content of this repository is bound by the following licenses:
 
 - The computer software is licensed under the [BSD-3-Clause](LICENSE.md) license.
 - The learning resources in the [`/curriculum`](/curriculum) directory including their subdirectories thereon are copyright © 2023 freeCodeCamp.org
+
